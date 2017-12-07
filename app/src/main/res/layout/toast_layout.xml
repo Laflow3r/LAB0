@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toast_layout_root"
+    android:orientation="horizontal"
+    android:layout_margin="20dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:background="#DAA" >
+
+    <ImageView android:id="@+id/image"
+        android:src="@android:drawable/btn_minus"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_marginRight="10dp"
+        android:layout_gravity="left"/>
+
+    <TextView android:id="@+id/text"
+        android:text="@string/ouvrirToast"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:textColor="@color/pepsi" />
+
+</LinearLayout>

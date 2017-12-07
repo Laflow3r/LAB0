@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LAB0</string>
+    <string name="hello">Hello le world</string>
+    <string name="activityChanger">Pour changer d activity</string>
+    <string name="ouvrirToast">Cliquez pour ouvrir le toast personnalisé</string>
+    <string name="activity2">Bienvenue dans la deuxieme activity</string>
+    <string name="menu1" translatable="false">1</string>
+    <string name="menu2" translatable="false">2</string>
+
+
+
+</resources>
